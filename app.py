@@ -122,9 +122,15 @@ st.write('Sentiment Analysis is a fascinating way to apply Natural Language Proc
 
 
 # Sources 
+st.subheader('Sources')
+st.text("https://www.oberlo.com/blog/online-review-statistics#:~:text=Most%20consumers%20who%20read%20online,(Bizrate%20Insights%2C%202021)")
 st.write('')
 st.write('')
 st.write('')
 st.write('')
+st.text('Created by Jared Garlick')
+st.write('[jaredgarlick.com](https://jaredgarlick.com)')
+st.write('[LinkedIn](https://www.linkedin.com/in/jaredgarlick/)')
+st.markdown('[Github](https://github.com/jbgarlick)')
 st.subheader('Sources')
 st.text("https://www.oberlo.com/blog/online-review-statistics#:~:text=Most%20consumers%20who%20read%20online,(Bizrate%20Insights%2C%202021)")
